@@ -6,3 +6,6 @@ We are using this repository to host a static website using github
 
 ## Note
 Please keep in mind we can only host static website this way. If your website contains dynamic elements or API, the process will fail.
+
+## Contributor
+Hi, I'm Nahiyan. Your support instructor for this course.
